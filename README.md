@@ -8,6 +8,8 @@ gaemu is local server for Google App Engine.
 
 gaemu provides a reverse proxy and a static contents server.
 
+It does not provide APIs for datastores, Memcache and ... other Google App Engine APIs.
+
 ## Install
 
 [Get here.](https://github.com/kurehajime/gaemu/releases)
