@@ -17,7 +17,7 @@ gaemu provides a reverse proxy and a static contents server.
 or 
 
 ```
-go get github.com/kurehajime/gaemu
+go install github.com/kurehajime/gaemu@latest
 ```
 
 ## Usage 
